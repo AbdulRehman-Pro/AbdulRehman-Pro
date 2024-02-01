@@ -11,10 +11,10 @@ I am a creative android app developer, offering 2 years of experience in (java /
 <img align="right" alt="Coding with me" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehmankhan8360&label=Profile%20views&color=1c1917&style=for-the-badge&color=22c55e" alt="rehmankhan8360" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulRehman-Pro&label=Profile%20views&color=1c1917&style=for-the-badge&color=22c55e" alt="AbdulRehman-Pro" /> </p>
 
 * 🌍  I'm based in **Lahore, Pakistan.**
-* ✉️  You can contact me at [**rehmankhan8360@gmail.com**](mailto:rehmankhan8360@gmail.com)
+* ✉️  You can contact me at [**AbdulRehman-Pro@gmail.com**](mailto:AbdulRehman-Pro@gmail.com)
 * 📄 Know about my experiences [**see my resume.**](https://rxresu.me/rehman/app-development)
 * 🧠  I'm learning **flutter**
 * 🔭 I’m currently working on **CityHopper**
@@ -22,8 +22,8 @@ I am a creative android app developer, offering 2 years of experience in (java /
 * 🤝  I'm open to collaborating on any project that leads me to learn new things.
 * ⚡  I am very passionate about learning new technologies, my future goals of 2024 is to become full stack app developer.
 
-<a href="https://www.github.com/rehmankhan8360" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rehmankhan8360?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+<a href="https://www.github.com/AbdulRehman-Pro" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AbdulRehman-Pro?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -45,8 +45,8 @@ src="https://img.shields.io/github/followers/rehmankhan8360?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rehmankhan8360"><img src="https://github-readme-stats.vercel.app/api?username=rehmankhan8360&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="rehmankhan8360's GitHub stats" /></a>
+<a href="http://www.github.com/AbdulRehman-Pro"><img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-Pro&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdulRehman-Pro's GitHub stats" /></a>
 
-<a href="http://www.github.com/rehmankhan8360"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmankhan8360&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AbdulRehman-Pro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-Pro&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/rehmankhan8360" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmankhan8360&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AbdulRehman-Pro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-Pro&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
