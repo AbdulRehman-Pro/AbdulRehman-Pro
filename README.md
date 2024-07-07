@@ -17,7 +17,7 @@ I am a creative android app developer, offering 2 years of experience in (java /
 * ✉️  You can contact me at [**AbdulRehman-Pro@gmail.com**](mailto:AbdulRehman-Pro@gmail.com)
 * 📄 Know about my experiences [**see my resume.**](https://drive.google.com/file/d/11SzrS3RCOSFl5BcBQ9v5_CS5sOsaq1LD/view)
 * 🧠  I'm learning **flutter**
-* 🔭 I’m currently working on **CityHopper**
+* 🔭 I’m currently working on **Dalua Ecosystem - IoT App**
 * 💬 Ask me about **Android, Flutter, Dart, Java and Kotlin**
 * 🤝  I'm open to collaborating on any project that leads me to learn new things.
 * ⚡  I am very passionate about learning new technologies, my future goals of 2024 is to become full stack app developer.
