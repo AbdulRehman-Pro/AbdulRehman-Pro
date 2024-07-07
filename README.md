@@ -15,7 +15,7 @@ I am a creative android app developer, offering 2 years of experience in (java /
 
 * 🌍  I'm based in **Lahore, Pakistan.**
 * ✉️  You can contact me at [**AbdulRehman-Pro@gmail.com**](mailto:AbdulRehman-Pro@gmail.com)
-* 📄 Know about my experiences [**see my resume.**](https://rxresu.me/rehman/app-development)
+* 📄 Know about my experiences [**see my resume.**](https://drive.google.com/file/d/1wHRL2OKj3arfsGQFsZNvKctagYEuxHMg/view)
 * 🧠  I'm learning **flutter**
 * 🔭 I’m currently working on **CityHopper**
 * 💬 Ask me about **Android, Flutter, Dart, Java and Kotlin**
