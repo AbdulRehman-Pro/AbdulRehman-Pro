@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Native Android Developer & Flutter Developer
 --------------------------------------------
 
-I am a creative android app developer, offering 2 years of experience in (java /kotlin) android development. Now I am learning a cross platform app development in Flutter , Flutter is an exceptionally amazing platform.
+I am a creative Android app developer with over 4 years of experience in Java/Kotlin Android development and Flutter multi-platform (Dart) apps.
 
 <img align="right" alt="Coding with me" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/AbdulRehman-Pro?logo=github&style=f
 
 <p align="left">
 <a href="https://linkedin.com/in/abdul-rehman-android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-rehman-android" height="30" width="40" /></a>
-<a href="https://instagram.com/mani_.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mani_.khan" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/mani_.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mani_.khan" height="30" width="40" /></a> -->
 </p>
 
 ### Badges
@@ -47,6 +47,12 @@ src="https://img.shields.io/github/followers/AbdulRehman-Pro?logo=github&style=f
 
 <a href="http://www.github.com/AbdulRehman-Pro"><img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-Pro&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdulRehman-Pro's GitHub stats" /></a>
 
-<a href="http://www.github.com/AbdulRehman-Pro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-Pro&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/AbdulRehman-Pro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-Pro&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AbdulRehman-Pro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-Pro&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AbdulRehman-Pro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-Pro&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+### Certifications
+
+<b>Complete Kotlin development masterclass</b>
+
+<img alt="Complete Kotlin development masterclass - Abdul Rehman" src="https://udemy-certificate.s3.amazonaws.com/image/UC-949196ec-d47e-432b-acc2-77154785d07b.jpg">
