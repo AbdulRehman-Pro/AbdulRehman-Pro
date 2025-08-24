@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Native Android Developer & Flutter Developer
 --------------------------------------------
 
-I am a creative Android app developer with over 4 years of experience in Java/Kotlin Android development and Flutter multi-platform (Dart) apps.
+I am a creative Android app developer with over 2+ years of experience in Java/Kotlin Android development and Flutter multi-platform (Dart) apps.
 
 <img align="right" alt="Coding with me" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -15,7 +15,7 @@ I am a creative Android app developer with over 4 years of experience in Java/Ko
 
 * 🌍  I'm based in **Lahore, Pakistan.**
 * ✉️  You can contact me at [**Rehmankhan8360@gmail.com**](mailto:Rehmankhan8360@gmail.com)
-* 📄 Know about my experiences [**see my resume.**](https://drive.google.com/file/d/11SzrS3RCOSFl5BcBQ9v5_CS5sOsaq1LD/view)
+* 📄 Know about my experiences [**see my resume.**](https://drive.google.com/file/d/1n9WnTbEFiducPqH68qmEukRMTuQGypCR/view)
 * 🧠  I'm learning **flutter**
 * 🔭 I’m currently working on **Dalua Ecosystem - IoT App**
 * 💬 Ask me about **Android, Flutter, Dart, Java and Kotlin**
